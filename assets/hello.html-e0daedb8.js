@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./app-fc1beccb.js";const _={},l=c("p",null,"啊咧啊咧，网站搭好了，以后这个地方主要用来发布更新的概况那些的吧，偶尔写东西",-1),s=[l];function n(a,r){return o(),t("div",null,s)}const f=e(_,[["render",n],["__file","hello.html.vue"]]);export{f as default};
