@@ -3,7 +3,7 @@
   <id>https://map.xiaohan-kaka.gay/</id>
   <title>blue archive avatar world</title>
   <subtitle>一个碧蓝档案的vrchat模型房</subtitle>
-  <updated>2023-11-15T15:25:23.865Z</updated>
+  <updated>2023-11-15T15:43:19.204Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://map.xiaohan-kaka.gay/atom.xml"/>
   <link rel="alternate" href="https://map.xiaohan-kaka.gay/"/>
@@ -17,17 +17,17 @@
     <title type="text">图片分享</title>
     <id>https://map.xiaohan-kaka.gay/game/photo.html</id>
     <link href="https://map.xiaohan-kaka.gay/game/photo.html"/>
-    <updated>2023-11-15T15:25:23.886Z</updated>
+    <updated>2023-11-15T15:43:19.232Z</updated>
     <summary type="html"><![CDATA[<p>下面是本网站用到的一些图片</p>
-<p><img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059406/1105622250_vzajqd.jpg" alt="" loading="lazy">
-<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059411/1116914960_xmqazf.jpg" alt="" loading="lazy">
-<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/973854690_ztfjke.jpg" alt="" loading="lazy">
-<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/1050405870_shqc4s.jpg" alt="" loading="lazy"></p>]]></summary>
+<p><img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059406/1105622250_vzajqd.jpg" alt="1105622250" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059411/1116914960_xmqazf.jpg" alt="1116914960" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/973854690_ztfjke.jpg" alt="973854690" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/1050405870_shqc4s.jpg" alt="1050405870" loading="lazy"></p>]]></summary>
     <content type="html"><![CDATA[<p>下面是本网站用到的一些图片</p>
-<p><img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059406/1105622250_vzajqd.jpg" alt="" loading="lazy">
-<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059411/1116914960_xmqazf.jpg" alt="" loading="lazy">
-<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/973854690_ztfjke.jpg" alt="" loading="lazy">
-<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/1050405870_shqc4s.jpg" alt="" loading="lazy"></p>
+<p><img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059406/1105622250_vzajqd.jpg" alt="1105622250" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059411/1116914960_xmqazf.jpg" alt="1116914960" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/973854690_ztfjke.jpg" alt="973854690" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/1050405870_shqc4s.jpg" alt="1050405870" loading="lazy"></p>
 ]]></content>
     <category term="杂项"/>
     <published>2023-11-15T00:00:00.000Z</published>
@@ -36,7 +36,7 @@
     <title type="text">ba标题生成器</title>
     <id>https://map.xiaohan-kaka.gay/game/title.html</id>
     <link href="https://map.xiaohan-kaka.gay/game/title.html"/>
-    <updated>2023-11-15T15:25:23.888Z</updated>
+    <updated>2023-11-15T15:43:19.234Z</updated>
     <summary type="html"><![CDATA[<iframe src="https://lab.nulla.top/ba-logo" height="1000" width="1000"></iframe>]]></summary>
     <content type="html"><![CDATA[<iframe src="https://lab.nulla.top/ba-logo" height="1000" width="1000"></iframe>]]></content>
     <category term="杂项"/>
@@ -46,7 +46,7 @@
     <title type="text">帮助我们</title>
     <id>https://map.xiaohan-kaka.gay/map/help.html</id>
     <link href="https://map.xiaohan-kaka.gay/map/help.html"/>
-    <updated>2023-11-15T15:25:23.891Z</updated>
+    <updated>2023-11-15T15:43:19.236Z</updated>
     <summary type="html"><![CDATA[<p>如果你擅长模型制作或者对地图相关的制作方面感兴趣，不妨加入我们</p>
 <h2> 方式</h2>
 <p>如果你想贡献，可以加入我们的<strong>qq群:675674062</strong></p>
@@ -69,7 +69,7 @@
     <title type="text">模型位置</title>
     <id>https://map.xiaohan-kaka.gay/map/model.html</id>
     <link href="https://map.xiaohan-kaka.gay/map/model.html"/>
-    <updated>2023-11-15T15:25:23.892Z</updated>
+    <updated>2023-11-15T15:43:19.237Z</updated>
     <summary type="html"><![CDATA[<p>模型位置在人物看板的后面哦~,自己找一下吧</p>
 <p><s>后续或者会做一个传送或者ui来方便取模型（小声bb）</s></p>
 ]]></summary>
@@ -90,7 +90,7 @@
     <title type="text">播放器相关问题</title>
     <id>https://map.xiaohan-kaka.gay/map/player.html</id>
     <link href="https://map.xiaohan-kaka.gay/map/player.html"/>
-    <updated>2023-11-15T15:25:23.897Z</updated>
+    <updated>2023-11-15T15:43:19.240Z</updated>
     <summary type="html"><![CDATA[<h2> 位置</h2>
 <p>在教室房间内</p>
 <h2> 剧情观看</h2>
@@ -130,7 +130,7 @@
     <title type="text">杂项</title>
     <id>https://map.xiaohan-kaka.gay/game/</id>
     <link href="https://map.xiaohan-kaka.gay/game/"/>
-    <updated>2023-11-15T15:25:23.900Z</updated>
+    <updated>2023-11-15T15:43:19.243Z</updated>
     <summary type="html"><![CDATA[<h2> 目录</h2>
 <ul>
 <li>
@@ -157,7 +157,7 @@
     <title type="text">地图相关帮助</title>
     <id>https://map.xiaohan-kaka.gay/map/</id>
     <link href="https://map.xiaohan-kaka.gay/map/"/>
-    <updated>2023-11-15T15:25:23.902Z</updated>
+    <updated>2023-11-15T15:43:19.245Z</updated>
     <summary type="html"><![CDATA[<h2> 目录</h2>
 <ul>
 <li>
