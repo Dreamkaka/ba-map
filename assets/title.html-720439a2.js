@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as o,a as c}from"./app-02501146.js";const l={},s=c("iframe",{src:"https://lab.nulla.top/ba-logo",height:"1000",width:"1000"},null,-1),a=[s];function r(_,n){return e(),o("div",null,a)}const h=t(l,[["render",r],["__file","title.html.vue"]]);export{h as default};

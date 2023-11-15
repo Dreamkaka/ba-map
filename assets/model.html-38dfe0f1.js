@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as s,a as e}from"./app-02501146.js";const _={},c=e("p",null,"模型位置在人物看板的后面哦~,自己找一下吧",-1),l=e("p",null,[e("s",null,"后续或者会做一个传送或者ui来方便取模型（小声bb）")],-1),n=[c,l];function r(a,d){return t(),s("div",null,n)}const u=o(_,[["render",r],["__file","model.html.vue"]]);export{u as default};
