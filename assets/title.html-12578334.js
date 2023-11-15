@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2f3ed73a","path":"/docs/game/title.html","title":"ba标题生成器","lang":"en-US","frontmatter":{"title":"ba标题生成器","aside":false},"headers":[],"git":{},"filePathRelative":"docs/game/title.md"}');export{e as data};

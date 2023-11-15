@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as o,a as c}from"./app-fc1beccb.js";const l={},s=c("iframe",{src:"https://lab.nulla.top/ba-logo",height:"1000",width:"1000"},null,-1),a=[s];function _(n,r){return e(),o("div",null,a)}const h=t(l,[["render",_],["__file","title.html.vue"]]);export{h as default};

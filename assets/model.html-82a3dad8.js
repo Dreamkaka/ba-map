@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6349ff8b","path":"/docs/model.html","title":"模型位置","lang":"en-US","frontmatter":{"title":"模型位置","date":"2023/10/25"},"headers":[],"git":{},"filePathRelative":"docs/model.md"}');export{t as data};

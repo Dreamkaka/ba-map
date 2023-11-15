@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://map.xiaohan-kaka.gay/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://map.xiaohan-kaka.gay/</id>
+  <title>blue archive avatar world</title>
+  <subtitle>一个碧蓝档案的vrchat模型房</subtitle>
+  <updated>2023-11-15T15:25:23.865Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://map.xiaohan-kaka.gay/atom.xml"/>
+  <link rel="alternate" href="https://map.xiaohan-kaka.gay/"/>
+  <category term="杂项"/>
+  <category term="地图帮助"/>
+  <category term="地图"/>
+  <contributor>
+    <name>xiaohan</name>
+  </contributor>
+  <entry>
+    <title type="text">图片分享</title>
+    <id>https://map.xiaohan-kaka.gay/game/photo.html</id>
+    <link href="https://map.xiaohan-kaka.gay/game/photo.html"/>
+    <updated>2023-11-15T15:25:23.886Z</updated>
+    <summary type="html"><![CDATA[<p>下面是本网站用到的一些图片</p>
+<p><img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059406/1105622250_vzajqd.jpg" alt="" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059411/1116914960_xmqazf.jpg" alt="" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/973854690_ztfjke.jpg" alt="" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/1050405870_shqc4s.jpg" alt="" loading="lazy"></p>]]></summary>
+    <content type="html"><![CDATA[<p>下面是本网站用到的一些图片</p>
+<p><img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059406/1105622250_vzajqd.jpg" alt="" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700059411/1116914960_xmqazf.jpg" alt="" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/973854690_ztfjke.jpg" alt="" loading="lazy">
+<img src="https://res.cloudinary.com/xiaohan/image/upload/v1700058568/1050405870_shqc4s.jpg" alt="" loading="lazy"></p>
+]]></content>
+    <category term="杂项"/>
+    <published>2023-11-15T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">ba标题生成器</title>
+    <id>https://map.xiaohan-kaka.gay/game/title.html</id>
+    <link href="https://map.xiaohan-kaka.gay/game/title.html"/>
+    <updated>2023-11-15T15:25:23.888Z</updated>
+    <summary type="html"><![CDATA[<iframe src="https://lab.nulla.top/ba-logo" height="1000" width="1000"></iframe>]]></summary>
+    <content type="html"><![CDATA[<iframe src="https://lab.nulla.top/ba-logo" height="1000" width="1000"></iframe>]]></content>
+    <category term="杂项"/>
+    <published>2023-11-15T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">帮助我们</title>
+    <id>https://map.xiaohan-kaka.gay/map/help.html</id>
+    <link href="https://map.xiaohan-kaka.gay/map/help.html"/>
+    <updated>2023-11-15T15:25:23.891Z</updated>
+    <summary type="html"><![CDATA[<p>如果你擅长模型制作或者对地图相关的制作方面感兴趣，不妨加入我们</p>
+<h2> 方式</h2>
+<p>如果你想贡献，可以加入我们的<strong>qq群:675674062</strong></p>
+]]></summary>
+    <content type="html"><![CDATA[<p>如果你擅长模型制作或者对地图相关的制作方面感兴趣，不妨加入我们</p>
+<h2> 方式</h2>
+<p>如果你想贡献，可以加入我们的<strong>qq群:675674062</strong></p>
+]]></content>
+    <author>
+      <name>xiaohan</name>
+    </author>
+    <category term="地图帮助"/>
+    <contributor>
+      <name>xiaohan</name>
+    </contributor>
+    <published>2023-10-25T00:00:00.000Z</published>
+    <rights>Copyright by xiaohan</rights>
+  </entry>
+  <entry>
+    <title type="text">模型位置</title>
+    <id>https://map.xiaohan-kaka.gay/map/model.html</id>
+    <link href="https://map.xiaohan-kaka.gay/map/model.html"/>
+    <updated>2023-11-15T15:25:23.892Z</updated>
+    <summary type="html"><![CDATA[<p>模型位置在人物看板的后面哦~,自己找一下吧</p>
+<p><s>后续或者会做一个传送或者ui来方便取模型（小声bb）</s></p>
+]]></summary>
+    <content type="html"><![CDATA[<p>模型位置在人物看板的后面哦~,自己找一下吧</p>
+<p><s>后续或者会做一个传送或者ui来方便取模型（小声bb）</s></p>
+]]></content>
+    <author>
+      <name>xiaohan</name>
+    </author>
+    <category term="地图帮助"/>
+    <contributor>
+      <name>xiaohan</name>
+    </contributor>
+    <published>2023-10-25T00:00:00.000Z</published>
+    <rights>Copyright by xiaohan</rights>
+  </entry>
+  <entry>
+    <title type="text">播放器相关问题</title>
+    <id>https://map.xiaohan-kaka.gay/map/player.html</id>
+    <link href="https://map.xiaohan-kaka.gay/map/player.html"/>
+    <updated>2023-11-15T15:25:23.897Z</updated>
+    <summary type="html"><![CDATA[<h2> 位置</h2>
+<p>在教室房间内</p>
+<h2> 剧情观看</h2>
+<p>直接点击播放列表选择你要观看的剧情/pv即可，受限于服务器原因，早期剧情并不完整，后续陆续补全</p>
+<h2> 视频播放（准备上线）</h2>
+<p>本播放器支持b站解析，理论上直接输入b站链接放映即可，不过由于b站解析需要时间，所以请多尝试几下或者稍作等待即可</p>
+<div class="hint-container danger">
+<p class="hint-container-title">注意</p>
+<p>由于vrc的对视频和图片的相关请求只能每5秒请求一次，所以请勿过于频繁的填链接！！！</p>
+</div>]]></summary>
+    <content type="html"><![CDATA[<h2> 位置</h2>
+<p>在教室房间内</p>
+<h2> 剧情观看</h2>
+<p>直接点击播放列表选择你要观看的剧情/pv即可，受限于服务器原因，早期剧情并不完整，后续陆续补全</p>
+<h2> 视频播放（准备上线）</h2>
+<p>本播放器支持b站解析，理论上直接输入b站链接放映即可，不过由于b站解析需要时间，所以请多尝试几下或者稍作等待即可</p>
+<div class="hint-container danger">
+<p class="hint-container-title">注意</p>
+<p>由于vrc的对视频和图片的相关请求只能每5秒请求一次，所以请勿过于频繁的填链接！！！</p>
+</div>
+<h2> 画饼</h2>
+<ul>
+<li>网易云音乐解析</li>
+</ul>
+]]></content>
+    <author>
+      <name>xiaohan</name>
+    </author>
+    <category term="地图帮助"/>
+    <contributor>
+      <name>xiaohan</name>
+    </contributor>
+    <published>2023-10-25T00:00:00.000Z</published>
+    <rights>Copyright by xiaohan</rights>
+  </entry>
+  <entry>
+    <title type="text">杂项</title>
+    <id>https://map.xiaohan-kaka.gay/game/</id>
+    <link href="https://map.xiaohan-kaka.gay/game/"/>
+    <updated>2023-11-15T15:25:23.900Z</updated>
+    <summary type="html"><![CDATA[<h2> 目录</h2>
+<ul>
+<li>
+<p><a href="/game/photo.html" target="blank">图片分享</a></p>
+</li>
+<li>
+<p><a href="/game/title.html" target="blank">ba标题生成器</a></p>
+</li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<h2> 目录</h2>
+<ul>
+<li>
+<p><a href="/game/photo.html" target="blank">图片分享</a></p>
+</li>
+<li>
+<p><a href="/game/title.html" target="blank">ba标题生成器</a></p>
+</li>
+</ul>
+]]></content>
+    <category term="杂项"/>
+  </entry>
+  <entry>
+    <title type="text">地图相关帮助</title>
+    <id>https://map.xiaohan-kaka.gay/map/</id>
+    <link href="https://map.xiaohan-kaka.gay/map/"/>
+    <updated>2023-11-15T15:25:23.902Z</updated>
+    <summary type="html"><![CDATA[<h2> 目录</h2>
+<ul>
+<li>
+<p><a href="/map/model.html" target="blank">模型位置</a></p>
+</li>
+<li>
+<p><a href="/map/help.html" target="blank">帮助我们</a></p>
+</li>
+<li>
+<p><a href="/map/player.html" target="blank">播放器</a></p>
+</li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<h2> 目录</h2>
+<ul>
+<li>
+<p><a href="/map/model.html" target="blank">模型位置</a></p>
+</li>
+<li>
+<p><a href="/map/help.html" target="blank">帮助我们</a></p>
+</li>
+<li>
+<p><a href="/map/player.html" target="blank">播放器</a></p>
+</li>
+</ul>
+]]></content>
+    <category term="地图"/>
+  </entry>
+</feed>

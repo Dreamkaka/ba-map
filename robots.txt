@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://map.xiaohan-kaka.gay/sitemap.xml
